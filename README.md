@@ -12,9 +12,9 @@
 
 Une fois le directeur choisi une fonctionnalité (exemple la fonctionnalité numéro 1), le menu affichant les sous fonctionnalités correspondant à cette fonctionnalité générale est affiché, exemple :
 
-a. Ajouter Animateur
-b. Mettre à jour Animateur
-c. Supprimer Animateur
+a. Ajouter Animateur 
+b. Mettre à jour Animateur  
+c. Supprimer Animateur 
 d. Lister les animateurs
 
 L’application java à programmer doit permettre au directeur de générer des statistiques relatives aux différentes activités/cours assurées.
