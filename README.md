@@ -1,6 +1,6 @@
 # App_Gestion_garderie_console
         
-                 ***Gestion d’une garderie scolaire***
+                             ***Gestion d’une garderie scolaire***
  
  Concevoir et développer une application console java (tout en respectant l’approche orientée objet) permettant au directeur de la garderie de gérer son système d’information.
  L’application java doit commencer par afficher une liste des fonctionnalités générales que peut le directeur choisir parmi elles.
