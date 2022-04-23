@@ -11,6 +11,7 @@
 4. Gestion Activités/Cours
 
 Une fois le directeur choisi une fonctionnalité (exemple la fonctionnalité numéro 1), le menu affichant les sous fonctionnalités correspondant à cette fonctionnalité générale est affiché, exemple :
+
 a. Ajouter Animateur
 b. Mettre à jour Animateur
 c. Supprimer Animateur
